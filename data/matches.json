@@ -1,0 +1,70 @@
+{
+  "round": 12,
+  "matches": [
+    {
+      "id": "m1",
+      "startsAt": "2026-10-11T13:00:00Z",
+      "status": "finished",
+      "home": { "id": "zenit", "name": "Зенит", "city": "Санкт-Петербург" },
+      "away": { "id": "spartak", "name": "Спартак", "city": "Москва" },
+      "score": { "home": 2, "away": 1 }
+    },
+    {
+      "id": "m2",
+      "startsAt": "2026-10-11T15:30:00Z",
+      "status": "finished",
+      "home": { "id": "lokomotiv", "name": "Локомотив", "city": "Москва" },
+      "away": { "id": "cska", "name": "ЦСКА", "city": "Москва" },
+      "score": { "home": 0, "away": 0 }
+    },
+    {
+      "id": "m3",
+      "startsAt": "2026-10-12T11:00:00Z",
+      "status": "finished",
+      "home": { "id": "krasnodar", "name": "Краснодар", "city": "Краснодар" },
+      "away": { "id": "rostov", "name": "Ростов", "city": "Ростов-на-Дону" },
+      "score": { "home": 3, "away": 0 }
+    },
+    {
+      "id": "m4",
+      "startsAt": "2026-10-15T16:00:00Z",
+      "status": "live",
+      "minute": 67,
+      "home": { "id": "dynamo", "name": "Динамо", "city": "Москва" },
+      "away": { "id": "rubin", "name": "Рубин", "city": "Казань" },
+      "score": { "home": 1, "away": 1 }
+    },
+    {
+      "id": "m5",
+      "startsAt": "2026-10-18T11:30:00Z",
+      "status": "scheduled",
+      "home": { "id": "pari-nn", "name": "Пари Нижний Новгород", "city": "Нижний Новгород" },
+      "away": { "id": "akron", "name": "Акрон", "city": "Тольятти" },
+      "score": null
+    },
+    {
+      "id": "m6",
+      "startsAt": "2026-10-18T14:00:00Z",
+      "status": "scheduled",
+      "home": { "id": "krylia", "name": "Крылья Советов", "city": "Самара" },
+      "away": { "id": "akhmat", "name": "Ахмат", "city": "Грозный" },
+      "score": null
+    },
+    {
+      "id": "m7",
+      "startsAt": null,
+      "status": "postponed",
+      "home": { "id": "baltika", "name": "Балтика", "city": "Калининград" },
+      "away": { "id": "fakel", "name": "Факел", "city": "Воронеж" },
+      "score": null
+    },
+    {
+      "id": "m8",
+      "startsAt": "2026-10-19T16:30:00Z",
+      "status": "scheduled",
+      "home": { "id": "orenburg", "name": "Оренбург", "city": "Оренбург" },
+      "away": { "id": "dynamo-mkh", "name": "Динамо Махачкала", "city": "Махачкала" },
+      "score": null
+    }
+  ]
+}
